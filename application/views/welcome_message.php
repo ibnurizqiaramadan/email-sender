@@ -20,6 +20,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 							<h5 class="card-title text-center">Gmail Account</h5>
 							<h5 class="card-title text-center"><b>( This website does't record any data )</b></h5>
 							<h6 class="card-title text-center"><a href="https://myaccount.google.com/lesssecureapps" target="_blank">Enable Less Secure Apps Access</a></h6>
+							<h6 class="card-title text-center"><a href="https://github.com/ibnurizqiaramadan/email-sender" target="_blank">Source Code</a></h6>
 							<form class="form-signin">
 								<div class="form-group">
 									<label for="inputEmail">Name</label>

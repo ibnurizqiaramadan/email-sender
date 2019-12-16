@@ -11,6 +11,11 @@ defined('BASEPATH') or exit('No direct script access allowed');
     <link rel="stylesheet" href="<?= base_url('assets/css/bootstrap.css') ?>">
     <link rel="stylesheet" href="<?= base_url('assets/summernote/summernote-bs4.css') ?>">
     <link rel="stylesheet" href="<?= base_url('assets/toastr/toastr.css') ?>">
+    <style>
+        .note-group-select-from-files {
+            display: none;
+        }
+    </style>
 </head>
 
 <body>
